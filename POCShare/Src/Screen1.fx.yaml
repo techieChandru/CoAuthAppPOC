@@ -100,3 +100,9 @@ Screen1 As screen:
         Y: =180
         ZIndex: =3
 
+    Label2 As label:
+        Text: ="Text"
+        X: =538
+        Y: =688
+        ZIndex: =4
+
