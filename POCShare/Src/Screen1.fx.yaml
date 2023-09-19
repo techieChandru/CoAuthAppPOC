@@ -95,6 +95,7 @@ Screen1 As screen:
             ZIndex: =6
 
     Button3 As button:
+        OnSelect: =Navigate(Screen2)
         Text: ="Next Page"
         X: =717
         Y: =180
