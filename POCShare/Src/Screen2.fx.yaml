@@ -17,14 +17,16 @@ Screen2 As screen:
         ZIndex: =2
 
     TextInput1 As text:
-        Default: ="Text input"
+        Default: ="Changed "
         Size: =15
         X: =576
         Y: =273
         ZIndex: =3
 
     Button2 As button:
-        OnSelect: =Navigate(Screen1)
+        OnSelect: |-
+            =Navigate(Screen1);
+            Notify("Added message for testing");
         Text: ="Submit"
         X: =576
         Y: =372

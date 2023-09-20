@@ -6,29 +6,29 @@
     "Button1": 10,
     "Button1_1": 5,
     "Button2": 8,
-    "Button3": 20,
-    "DatePicker1": 21,
-    "Gallery1": 12,
-    "galleryTemplate1": 13,
+    "Button3": 21,
+    "DatePicker1": 12,
+    "Gallery1": 13,
+    "galleryTemplate1": 14,
     "Host": 3,
-    "Image1": 15,
+    "Image1": 16,
     "Label1": 6,
     "Label2": 11,
-    "NextArrow1": 17,
-    "Rectangle1": 14,
+    "NextArrow1": 18,
+    "Rectangle1": 15,
     "Screen1": 9,
     "Screen2": 4,
-    "Separator1": 19,
-    "Subtitle1": 18,
+    "Separator1": 20,
+    "Subtitle1": 19,
     "TextInput1": 7,
-    "Title1": 16
+    "Title1": 17
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/20/2023 14:13:26",
+  "HeaderLastSavedDateTimeUTC": "09/20/2023 14:43:59",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "a66f0c6a-e16f-47f0-8402-1f6a2c4c9fe8": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/505b0a4918e34d228d2ed24e36201e27\""
+    "a66f0c6a-e16f-47f0-8402-1f6a2c4c9fe8": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/02012ddff62f440785decf384c59691f\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -104,9 +104,10 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1362003,
+    "AnalysisLoadTime": 0.135599,
     "ControlCount": {
       "button": 4,
+      "datepicker": 1,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
@@ -116,7 +117,7 @@
       "screen": 2,
       "text": 1
     },
-    "DeserializationLoadTime": 2.3620457
+    "DeserializationLoadTime": 1.7816617
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
