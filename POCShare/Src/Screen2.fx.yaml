@@ -17,7 +17,7 @@ Screen2 As screen:
         ZIndex: =2
 
     TextInput1 As text:
-        Default: ="Changed I added too"
+        Default: ="Changed I added too1"
         Size: =15
         X: =576
         Y: =273
