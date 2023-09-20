@@ -3,28 +3,29 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 5,
-    "Button1_1": 15,
-    "Button2": 18,
-    "Button3": 19,
-    "Gallery1": 6,
-    "galleryTemplate1": 7,
+    "Button1": 10,
+    "Button1_1": 5,
+    "Button2": 8,
+    "Button3": 20,
+    "DatePicker1": 21,
+    "Gallery1": 12,
+    "galleryTemplate1": 13,
     "Host": 3,
-    "Image1": 9,
-    "Label1": 16,
-    "Label2": 20,
-    "NextArrow1": 11,
-    "Rectangle1": 8,
-    "Screen1": 4,
-    "Screen2": 14,
-    "Separator1": 13,
-    "Subtitle1": 12,
-    "TextInput1": 17,
-    "Title1": 10
+    "Image1": 15,
+    "Label1": 6,
+    "Label2": 11,
+    "NextArrow1": 17,
+    "Rectangle1": 14,
+    "Screen1": 9,
+    "Screen2": 4,
+    "Separator1": 19,
+    "Subtitle1": 18,
+    "TextInput1": 7,
+    "Title1": 16
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/19/2023 16:17:16",
+  "HeaderLastSavedDateTimeUTC": "09/20/2023 14:12:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "a66f0c6a-e16f-47f0-8402-1f6a2c4c9fe8": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/505b0a4918e34d228d2ed24e36201e27\""
@@ -43,12 +44,13 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
-    "gallery": 2,
-    "icon": 5,
-    "image": 4,
+    "datepicker": 3,
+    "gallery": 4,
+    "icon": 7,
+    "image": 6,
     "label": 1,
-    "rectangle": 3,
-    "text": 6
+    "rectangle": 5,
+    "text": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -56,6 +58,7 @@
     "Button1_1": {},
     "Button2": {},
     "Button3": {},
+    "DatePicker1": {},
     "Gallery1": {},
     "galleryTemplate1": {},
     "Host": {},
@@ -79,6 +82,7 @@
     "Button1_1": 10,
     "Button2": 13,
     "Button3": 9,
+    "DatePicker1": 0,
     "Gallery1": 1,
     "galleryTemplate1": 2,
     "Host": 0,
@@ -100,19 +104,19 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1311592,
+    "AnalysisLoadTime": 0.1362003,
     "ControlCount": {
-      "button": 3,
+      "button": 4,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
       "image": 1,
-      "label": 3,
+      "label": 4,
       "rectangle": 2,
       "screen": 2,
       "text": 1
     },
-    "DeserializationLoadTime": 1.9180199
+    "DeserializationLoadTime": 2.3620457
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
